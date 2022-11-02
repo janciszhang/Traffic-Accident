@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <title>Bar chart race</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/stylesheet.css">
+     <link rel="stylesheet" href="./css/styles.css"/>
+</head>
+
+<body>
+
+
+<div id="#col-1"  class="wrapper" style="text-align: center;">
+    <svg width="1900" height="1020"></svg>
+</div>
+<p style="height:70px"></p>
+
+<div style="text-align: center; width: 1900px;height:80px">
+    <div class="row" style="text-align: center;">
+        <div class="col-3">
+        </div>
+        <div class="col-1">
+            <button class="btn btn-outline-danger" onclick="changeColorRed()">Red</button>
+        </div>
+        <div class="col-1">
+            <button class="btn btn-outline-warning" onclick="changeColorYellow()">Yellow</button>
+        </div>
+        <div class="col-1">
+            <button class="btn btn-outline-primary" onclick="changeColorBlue()">Blue</button>
+        </div>
+        <div class="col-1">
+            <button class="btn btn-outline-success" onclick="changeColorGreen()">Green</button>
+        </div>
+        <div class="col-1">
+            <button class="btn btn-outline-dark" onclick="changeColor0()">Original color</button>
+        </div>
+        <div class="col-5">
+        </div>
+    </div>
+</div>
+
+
+
+<div style="text-align: center;">
+    <button type="button" class="btn btn-secondary" onClick="location.reload()">Restart</button>
+</div>
+
+<script src="js/config.js"></script>
+<script src="js/imgs.js"></script>
+<script src="js/color_ranges.js"></script>
+<script src="js/colors.js"></script>
+<script src="js/visual.js"></script>
+
+
+</body>
+
+</html>

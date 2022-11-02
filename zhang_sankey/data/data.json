@@ -1,0 +1,114 @@
+[
+  {
+    "sex": "male",
+    "roadCondition": "Excellent",
+    "Slight": 6073,
+    "Medium": 711357,
+    "Serious": 247763,
+    "Fatal": 43528
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Excellent",
+    "Slight": 6273,
+    "Medium": 731761,
+    "Serious": 255371,
+    "Fatal": 45057
+  },
+  {
+    "sex": "male",
+    "roadCondition": "Pretty good",
+    "Slight": 3600,
+    "Medium": 243680,
+    "Serious": 52946,
+    "Fatal": 11710
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Pretty good",
+    "Slight": 3701,
+    "Medium": 251114,
+    "Serious": 54561,
+    "Fatal": 12112
+  },
+  {
+    "sex": "male",
+    "roadCondition": "Good",
+    "Slight": 3922,
+    "Medium": 76251,
+    "Serious": 7336,
+    "Fatal": 2400
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Good",
+    "Slight": 3999,
+    "Medium": 78479,
+    "Serious": 7536,
+    "Fatal": 2480
+  },
+  {
+    "sex": "male",
+    "roadCondition": "Normal",
+    "Slight": 454,
+    "Medium": 13892,
+    "Serious": 1357,
+    "Fatal": 457
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Normal",
+    "Slight": 472,
+    "Medium": 14297,
+    "Serious": 1407,
+    "Fatal": 477
+  },
+  {
+    "sex": "male",
+    "roadCondition": "Bad",
+    "Slight": 80,
+    "Medium": 2073,
+    "Serious": 164,
+    "Fatal": 80
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Bad",
+    "Slight": 87,
+    "Medium": 2126,
+    "Serious": 176,
+    "Fatal": 95
+  },
+  {
+    "sex": "male",
+    "roadCondition": "Very bad",
+    "Slight": 21,
+    "Medium": 247,
+    "Serious": 23,
+    "Fatal": 21
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Very bad",
+    "Slight": 24,
+    "Medium": 258,
+    "Serious": 28,
+    "Fatal": 22
+  },
+  {
+    "sex": "male",
+    "roadCondition": "Extremely bad",
+    "Slight": 1,
+    "Medium": 26,
+    "Serious": 2,
+    "Fatal": 0
+  },
+  {
+    "sex": "female",
+    "roadCondition": "Extremely bad",
+    "Slight": 2,
+    "Medium": 28,
+    "Serious": 2,
+    "Fatal": 0
+  }
+]

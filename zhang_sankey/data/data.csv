@@ -1,0 +1,15 @@
+"sex","roadCondition","Slight","Medium","Serious","Fatal"
+male,good,6073,711357,247763,43528
+female,good,6273,731761,255371,45057
+male,good,3600,243680,52946,11710
+female,good,3701,251114,54561,12112
+male,good,3922,76251,7336,2400
+female,good,3999,78479,7536,2480
+male,mediocre,454,13892,1357,457
+female,mediocre,472,14297,1407,477
+male,mediocre,80,2073,164,80
+female,mediocre,87,2126,176,95
+male,bad,21,247,23,21
+female,bad,24,258,28,22
+male,bad,1,26,2,0
+female,bad,2,28,2,0
